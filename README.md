@@ -21,7 +21,7 @@ The dataset contains information about TV Shows and Movies available on Netflix,
 - Genre(s)
 - Description
 
-🗂 Dataset used: `netflix_titles.csv`  
+Dataset used: `netflix_titles.csv`  
 Total Records: 8,800+  
 Source: [Netflix Dataset on Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
 
